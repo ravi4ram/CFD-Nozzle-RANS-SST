@@ -1,6 +1,8 @@
 # CFD Flow Simulation for Supersonic Nozzles-Conical and its Bell equivalent (RANS-SST)
 > Flow simulation of nozzles using SU2 solver using structured mesh with RANS-SST combination. As a test case PSLV stage 1 and stage 3 nozzle sizes were used.  
-   
+    
+&nbsp;    
+#### Update (27-DEC-22) : Config file updated for SU2 (Version-7.4.0)    
 
 ## Table of contents
 * [General info](#general-info)
@@ -84,7 +86,7 @@ If you have multi-core processor, then MPI version speeds up the computation. Yo
 [ https://github.com/ravi4ram/Bell-Nozzle ]
 
 ## Updates   
-* 
+* [27-DEC-22] Config file updated for SU2 (Version-7.4.0)
 
 ## To-do list
 * SSLV
