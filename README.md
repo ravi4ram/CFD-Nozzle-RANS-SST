@@ -51,7 +51,7 @@ PS3-Max-thrust conditions: MEOP = 6.37 MPa, Tc = 2900 K, Pa = 0.0009964 Pa [arou
 Tested the code on Linux based setup.    
 >   
 1. Gmsh (Version-4.7.1) with python module - Mesh generation
-2. SU2 (Version-7.1.0) - CFD solver 
+2. SU2 (Version-7.4.0) - CFD solver 
 3. Paraview (Version-5.7.0) - flow visualization  
 
 &nbsp;    
